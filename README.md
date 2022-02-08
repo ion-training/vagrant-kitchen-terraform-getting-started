@@ -46,7 +46,8 @@ rm -rf vagrant-kitchen-terraform-getting-started
 ![](./screenshots/2022-02-08-02-51-32.png)
 
 - The fixture is /vagrant/my_terraform_module/test/fixtures/
-- Bulb is /vagrant/my_terraform_module/test/fixtures/tf_module/main.tf (which pulls from ../../ the actual main.tf file)
+- Bulb is /vagrant/my_terraform_module/test/fixtures/tf_module/main.tf \
+   (which pulls from ../../ the actual main.tf file)
 
 # Sample output 1
 Before running `bundle exec kitchen converge`
