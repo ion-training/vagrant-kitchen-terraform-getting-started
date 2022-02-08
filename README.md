@@ -1,6 +1,7 @@
 # vagrant-kitchen-terraform-getting-started
 kitchen-terraform on vagrant box
 
+[This is a quick guide to getting started with Kitchen-Terraform](https://newcontext-oss.github.io/kitchen-terraform/getting_started.html)
 # How to use this repo
 Clone and cd into repo
 ```
